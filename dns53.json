@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0-alpha.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/purpleclay/dns53/releases/download/v0.1.0-alpha.1/dns53_0.1.0-alpha.1_windows-i386.zip",
+            "bin": [
+                "dns53.exe"
+            ],
+            "hash": "1319c85e029ec6ca2722e88a05348d5a17aebc41920f7f510f649790dc171249"
+        },
+        "64bit": {
+            "url": "https://github.com/purpleclay/dns53/releases/download/v0.1.0-alpha.1/dns53_0.1.0-alpha.1_windows-x86_64.zip",
+            "bin": [
+                "dns53.exe"
+            ],
+            "hash": "3b2a32bff7f8448e29b8b2d70ec3f2fd8975f5d084542fc375da37af41044dbf"
+        }
+    },
+    "homepage": "https://github.com/purpleclay/dns53",
+    "license": "MIT",
+    "description": "Dynamic DNS within Amazon Route53. Expose your EC2 quickly, easily and privately"
+}
