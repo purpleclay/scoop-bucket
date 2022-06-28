@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0-beta.3",
+    "version": "0.1.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/purpleclay/dns53/releases/download/v0.1.0-beta.3/dns53_0.1.0-beta.3_windows-i386.zip",
+            "url": "https://github.com/purpleclay/dns53/releases/download/v0.1.0/dns53_0.1.0_windows-i386.zip",
             "bin": [
                 "dns53.exe"
             ],
-            "hash": "a1962032f6d530566c8b1b6d3217e6df2bd33e1b6e80f72e131e375420bcf832"
+            "hash": "5ec27fa9a70a9317b1b26b7e8bc164eeae02cfc80a53af5a9a3a13abc215ba88"
         },
         "64bit": {
-            "url": "https://github.com/purpleclay/dns53/releases/download/v0.1.0-beta.3/dns53_0.1.0-beta.3_windows-x86_64.zip",
+            "url": "https://github.com/purpleclay/dns53/releases/download/v0.1.0/dns53_0.1.0_windows-x86_64.zip",
             "bin": [
                 "dns53.exe"
             ],
-            "hash": "d1f50884e9a7cb1f2e47e3bc476d65b2cb698149994c609dbcb58b617f0c3372"
+            "hash": "eddc2dfa93d388e2dc3b39fa088a98e26e480939f3d90ddd5f2620bbe0e67473"
         }
     },
     "homepage": "https://github.com/purpleclay/dns53",
