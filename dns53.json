@@ -6,14 +6,14 @@
             "bin": [
                 "dns53.exe"
             ],
-            "hash": "5ec27fa9a70a9317b1b26b7e8bc164eeae02cfc80a53af5a9a3a13abc215ba88"
+            "hash": "181351122912cfa4fab8c3d92caea31214df5e3215419d5fb6a24fd4daacb274"
         },
         "64bit": {
             "url": "https://github.com/purpleclay/dns53/releases/download/v0.1.0/dns53_0.1.0_windows-x86_64.zip",
             "bin": [
                 "dns53.exe"
             ],
-            "hash": "eddc2dfa93d388e2dc3b39fa088a98e26e480939f3d90ddd5f2620bbe0e67473"
+            "hash": "26458c9cda923a3817549143187aeb072b96c8de8cd4426d62bf54196f526176"
         }
     },
     "homepage": "https://github.com/purpleclay/dns53",
