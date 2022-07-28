@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/purpleclay/misspell-codeclimate/releases/download/v0.1.0/misspell-codeclimate_0.1.0_windows-i386.zip",
+            "url": "https://github.com/purpleclay/misspell-codeclimate/releases/download/v0.2.0/misspell-codeclimate_0.2.0_windows-i386.zip",
             "bin": [
                 "misspell-codeclimate.exe"
             ],
-            "hash": "254488b2fb7e96a79dc654cfc40e827679c2202e489d5b38871311c1ff8ee7d8"
+            "hash": "6ef385743903631c73f4cd3cce4672162461fd9ca7f042dcff12113589bf969d"
         },
         "64bit": {
-            "url": "https://github.com/purpleclay/misspell-codeclimate/releases/download/v0.1.0/misspell-codeclimate_0.1.0_windows-x86_64.zip",
+            "url": "https://github.com/purpleclay/misspell-codeclimate/releases/download/v0.2.0/misspell-codeclimate_0.2.0_windows-x86_64.zip",
             "bin": [
                 "misspell-codeclimate.exe"
             ],
-            "hash": "831105fdbb27b8b3f642bb1f42b35c0b0cae0d21c96b963f010d53cf99a17d12"
+            "hash": "ac615d0493383e2762269d26c04d594d33ee5ce38c9054edb9424edb44600de1"
         }
     },
     "homepage": "https://github.com/purpleclay/misspell-codeclimate",
